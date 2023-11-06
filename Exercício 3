@@ -1,0 +1,27 @@
+EXERCÍCIO 3:
+
+. Encontre referências e comente:
+
+a. A relação entre a LGPD e os Data Centers no Brasil:
+A aplicação da LGPD (lei de proteção de dados) reformulou a proteção dos dados e informações de todos os Datas Centers no Brasil, obrigando as empresas a serem mais cuidadosas em relação ao mapeamento de dados, políticas de acesso etc. constituindo um amparo legal com sanções penais previstas a violação da mesma. Ressaltando que se o dado foi coletado em território brasileiro, ou tem como finalidade oferecer serviços a pessoas no Brasil, a LGPD abrange território internacional.
+Referências:
+https://thriveti.com.br/veja-a-relacao-entre-data-center-e-a-lei-geral-de-protecao-de-dados-lgpd/#:~:text=A Lei Geral de Proteção de Dados (LGPD) obriga as,a administração do Data Center.
+
+b. Formatos de arquivos de dados proprietários e abertos
+O formato de arquivo de dados proprietários são controlados e definidos por interesses privados, são consideravelmente menos seguros do que arquivos abertos, uma vez que no caso em que o software pare de funcionar ou seja descontinuado , nāo haverá  outro sistema para processa-lo. Já os arquivos de dados abertos são desenvolvidos de modo coletivo, que seguem padrões abertos e possui suas especificações abertas a todos, tornando as mais seguras.
+Referências: 
+https://biblus.accasoftware.com/ptb/formatos-abertos-e-formatos-proprietarios-como-funciona-e-como-e-constituido-o-arquivo-ifc/amp/
+https://campusvirtual.fiocruz.br/portal/guiarea/OpenFormats.html#:~:text=Os formatos proprietários representam a,podem ser conhecidas por todos.
+
+b.1 forneça exemplos de formatos
+Exemplo de formatos abertos: HTML5, EPUB
+Exemplos de formatos proprietários: DWG, DOC e PPT 
+Referências:
+https://campusvirtual.fiocruz.br/portal/guiarea/OpenFormats.html
+
+b.2 discuta as implicações relacionadas a dados públicos.
+Os dados públicos são informações disponíveis ao público em geral , possuindo diversas implicações, como pó exemplo: são fundamentais para garantir a participação da sociedade nas decisões políticas e nos programas governamentais, através de seu monitoramento e análise de desempenho. Assim, como a possibilidade de empresas aumentarem a competição comercial utilizado dos mesmos. 
+Ressaltando a importância das informações e disponde dados estarem protegidas pela LGPD (lei de proteção de dados).
+Referências: 
+https://www.serpro.gov.br/lgpd/menu/protecao-de-dados/dados-publicos-lgpd
+https://www.migalhas.com.br/amp/depeso/385181/lgpd-e-prefeituras-desafios-e-impactos
